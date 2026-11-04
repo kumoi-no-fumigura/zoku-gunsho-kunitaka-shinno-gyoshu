@@ -3548,6 +3548,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 20,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-kunitaka-shinno-gyoshu",
   "work": "式部卿邦高親王御集",
